@@ -1,4 +1,4 @@
-#define ANALOG_OUT_PIN 3
+#define ANALOG_OUT_PIN 13
 #define SECOND 1000
 
 void setup() {
